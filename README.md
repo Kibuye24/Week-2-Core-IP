@@ -4,8 +4,9 @@
 #### {Python Programmming Data Science Project}, {December, 2021}
 #### By **{Kibuye}**
 ## Description
-{In this project, I will be acting as a data scientist trying to understand financial inclusivity in Africa.
-I will be predicting the likelihood of a person to have a bank account and answer the following research question.}
+In this project, I will be acting as a data scientist trying to understand financial inclusivity in Africa.
+I will be predicting the likelihood of a person to have a bank account and answer the following research question.
+
 Research Question:
 How can financial inclusion be improved in Kenya using Kenya, Rwanda, Uganda, and Tanzania as sample?
 ## Setup/Installation Requirements
